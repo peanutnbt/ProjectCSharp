@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\semester5\ProjectCSharp\ProjectCSharp\bin\ProjectCSharp.dll.config
+C:\Users\ASUS\Desktop\semester5\ProjectCSharp\ProjectCSharp\bin\ProjectCSharp.dll
+C:\Users\ASUS\Desktop\semester5\ProjectCSharp\ProjectCSharp\bin\ProjectCSharp.pdb
+C:\Users\ASUS\Desktop\semester5\ProjectCSharp\ProjectCSharp\obj\Debug\ProjectCSharp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\semester5\ProjectCSharp\ProjectCSharp\obj\Debug\ProjectCSharp.dll
+C:\Users\ASUS\Desktop\semester5\ProjectCSharp\ProjectCSharp\obj\Debug\ProjectCSharp.pdb
